@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name]! 👋
+## Hi there, I'm Koon! 👋
 
 Hi! I’ve been learning to code for over a year and recently became passionate about AI and Data Science.
 
