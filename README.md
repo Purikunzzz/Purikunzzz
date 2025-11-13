@@ -3,7 +3,7 @@
 Hi! I’ve been learning to code for over a year and recently became passionate about AI and Data Science.
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [purikunsrinor@gmail.com](mailto:purikunsrinor@gmail.com )
+* ✉️  You can contact me at [purikunsrinor@gmail.com](mailto:purikunsrinor@gmail.com ) or [67991019@kmitl.ac.th](mailto:67991019@kmitl.ac.th)
 * 🧠  I'm currently learning Machine Learning
 
 <p align="left">
