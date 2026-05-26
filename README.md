@@ -5,7 +5,6 @@ Hi there! I'm a passionate learner who has been coding for over a year. During t
 Recently, I've developed a strong interest in Artificial Intelligence and Data Science, where I’m focusing on learning how data can be used to solve real-world problems and how AI can make technology smarter and more efficient.
 My goal is to become proficient in AI development and data-driven decision-making, while continuing to sharpen my programming and problem-solving skills.
 
-- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **purikunsrinor@gmail.com**
 
